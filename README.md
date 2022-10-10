@@ -88,7 +88,7 @@ The Fed has a wide variety of [datasets](https://www.federalreserve.gov/datadown
 Check out [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/), [Data.world](https://data.world/) and [Kaggle](https://www.kaggle.com/datasets) for inspiration.
 
 ## Requirements
-For the purposes of a DSI project, you must meet a few technical requirements. They are:
+This project will be hosted on **GitHib**, not just GA's GitHub Enterprise, so it will be a public project for your portfolio and will add to your github activity.  For the purposes of a DSI project, you must meet a few technical requirements. They are:
 1)  A `README.md` file in your project repo. Note that `README` files are automatically rendered by GitHub when you view a repo. Your README should contain:
     - A problem statement.
     - A succinct formulation of the question your analysis seeks to answer.
