@@ -44,8 +44,8 @@ The code file contains the three notebooks titled "01-Cleaning_EDA_preprocessing
 _______________________________
 ### Conclusions:
 
-From our analysis and modeling, we can conclude that the K-Means Clustering Model and DBSCAN Model perform best with three clusters as compared to the four classes made by the CDC. These models however were not performing well due to the clusters not being clearly separated. This however was different from the random forest that we made that gave us an 89% accuracy score in predicting the activity type. Since our accuracy rate was high, we then took the activity types in question and created a recommender system to inform users what the best activity would be for them to reach their a healthy BMI. We also found that Apple Watch users have a higher average BMI than Fit Bit users. 
+From our analysis and modeling, we can conclude that the K-Means Clustering Model and DBSCAN Model perform best with three clusters as compared to the four classes made by the CDC. These models however were not performing well due to the clusters not being clearly separated. This however was different from the random forest that we made that gave us an 88% accuracy score in predicting the activity type. Since our accuracy rate was high, we then took the activity types in question and created a recommender system to inform users what the best activity would be for them to reach their a healthy BMI. We also found that Apple Watch users have a higher average BMI than Fit Bit users. 
 
 ### Recommendations:
 
-We would recommend that users do the activities recommended to them by our system to check to see if significant results were made towards moving their BMI to the desired range. If possible, it would be great to gather more data for different activities using these devices.
+We would recommend that users do the activities recommended to them by our system to check to see if significant results were made towards moving their BMI to the desired range. If possible, it would be great to gather more data for different activities using these devices. 
